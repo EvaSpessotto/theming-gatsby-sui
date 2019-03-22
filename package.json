@@ -13,6 +13,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
+    "core-js": "^2.6.5",
     "gatsby": "^2.2.5",
     "gatsby-plugin-less": "^2.0.12",
     "less": "^3.9.0",

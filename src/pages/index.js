@@ -1,3 +1,11 @@
-import React from "react"
+import React from "react";
+import Layout from '../components/Layout';
+import 'semantic-ui-css/semantic.min.css'
 
-export default () => <div>Hello world!</div>
+
+export default () => (
+  <Layout>
+    Hello thère !
+  </Layout>
+
+)
