@@ -5,7 +5,7 @@ import 'semantic-ui-css/semantic.min.css'
 
 export default () => (
   <Layout>
-    Hello thère !
+    Hello there !
   </Layout>
 
 )
