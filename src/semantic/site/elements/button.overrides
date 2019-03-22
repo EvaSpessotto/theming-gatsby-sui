@@ -1,3 +1,16 @@
 /*******************************
          Site Overrides
 *******************************/
+
+.ui.button {
+    background: @yellowc42;
+    border-radius: 20px;
+    color: @greyc42;
+    font-family: 'Poppins';
+    transition: 0.2s ease;
+    &:hover{
+     background: @bluec42;
+     color: white;
+    }
+    
+}

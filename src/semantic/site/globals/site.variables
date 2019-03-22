@@ -2,6 +2,9 @@
      User Global Variables
 *******************************/
 
-@emSize: 13px;
-@fontSize: 13px;
-@fontName: 'Helvetica';
+@headerFont: 'Poppins';
+@pageFont: 'Roboto';
+
+@bluec42: #6BA3D6;
+@yellowc42: #FFE800;
+@greyc42: #424242;
