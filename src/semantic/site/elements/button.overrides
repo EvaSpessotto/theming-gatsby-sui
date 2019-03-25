@@ -11,6 +11,10 @@
     &:hover{
      background: @bluec42;
      color: white;
+     transform: scale(0.9);
     }
-    
+    &:focus {
+        background: @greyc42;
+        color: white;
+    }
 }

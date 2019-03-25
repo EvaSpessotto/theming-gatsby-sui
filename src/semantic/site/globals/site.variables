@@ -2,7 +2,8 @@
      User Global Variables
 *******************************/
 
-@headerFont: 'Poppins';
+@headerFont: 'Poppins Black';
+@subheaderFont: 'Poppins';
 @pageFont: 'Roboto';
 
 @bluec42: #6BA3D6;

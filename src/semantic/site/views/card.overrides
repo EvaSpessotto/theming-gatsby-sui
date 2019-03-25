@@ -1,3 +1,13 @@
 /*******************************
     User Variable Overrides
 *******************************/
+
+.ui.grid.ui.card {
+    border-radius: 20px;
+    box-shadow: 10px 10px 44px -16px rgba(0,0,0,0.76);
+    .content {
+        .description {
+            font-size: 1em;
+        }
+    }
+}
